@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Esta aplicação faz para das ferramentas do assessor, nas quais vem para automatizar o dia a dia do mesmo e facilitar a adesão ao projeto por parte dos usuários.<br> <br>O aplicativo está organizado em uma arquitetura de Microservices.<br><br>Detalhes da stack:<br>Implementação feita em Python 3<br>Codigo fonte pode ser visualizado nesse link<br><br>Bibliotecas Python<br>pip - ferramenta para instalação de pacotes Python, <br>Selenium - fornece métodos para controlar o navegador<br>PyAutogui - fornece métodos para controlar mouse e teclado<br>Venv - fornece a criação de ambiente virtuais<br>cx-Freeze - cria um arquivo executável</p>
+<p align="left">Esta aplicação faz para das ferramentas do assessor, nas quais vem para automatizar o dia a dia do mesmo e facilitar a adesão ao projeto por parte dos usuários.<br> <br>O aplicativo está organizado em uma arquitetura de Microservices.<br><br>Detalhes da stack:<br>Implementação feita em Python 3<br>Codigo fonte pode ser visualizado nesse link https://github.com/devflagesjr/educatec/blob/main/LOGIN-AUTOMATICO-ARLEQUIM/CODIGO-FONTE/login-automatico-viaWeb/V0.0.2/__app.py<br><br><br>Bibliotecas Python<br>pip - ferramenta para instalação de pacotes Python, <br>Selenium - fornece métodos para controlar o navegador<br>PyAutogui - fornece métodos para controlar mouse e teclado<br>Venv - fornece a criação de ambiente virtuais<br>cx-Freeze - cria um arquivo executável</p>
 
 ###
 
