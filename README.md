@@ -2,11 +2,7 @@
 
 ###
 
-<p align="left">AUTOR: Flávio Lages Jr<br>REPOSITÓRIO: https://github.com/devflagesjr/educatec<br>LICENÇA: CC BY-NC 4.0 DEED Attribution-NonCommercial 4.0 International.</p>
-
-###
-
-<p align="left"></p>
+<p align="left">Repositório de ferramentas de auxilio ao assessor EDUCATEC</p>
 
 ###
 
@@ -26,7 +22,7 @@
 
 ###
 
-<p align="left">Aplicação para automatizar o login do arlequim.<br>Para visualizar o funcionamento acesso o link</p>
+<p align="left">Aplicação para automatizar o login do Arlequim.<br>Para visualizar o funcionamento acesso o link</p>
 
 ###
 
@@ -51,5 +47,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+<p align="left">AUTOR: Flávio Lages Jr<br>REPOSITÓRIO: https://github.com/devflagesjr/educatec<br>LICENÇA: CC BY-NC 4.0 DEED Attribution-NonCommercial 4.0 International.</p>
 
 ###
