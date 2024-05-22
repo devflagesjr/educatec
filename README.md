@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">Para execução do serviço basta colocar o usuário seguido de um espaço e a senha no arquivo AQUI_O_USUARIO_E_SENHA.txt e clicar duas vezes no executável __login_automatico_arlequim.exe</p>
+<p align="left">Para execução do serviço basta baixar o execultavel nesse link https://github.com/devflagesjr/educatec/raw/main/LOGIN-AUTOMATICO-ARLEQUIM/EXECULTAVEL/EXECULTAVEL.7z,  colocar o usuário seguido de um espaço e a senha no arquivo AQUI_O_USUARIO_E_SENHA.txt e clicar duas vezes no executável __login_automatico_arlequim.exe</p>
 
 ###
 
