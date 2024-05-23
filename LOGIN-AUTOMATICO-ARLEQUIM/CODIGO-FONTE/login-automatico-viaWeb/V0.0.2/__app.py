@@ -26,8 +26,8 @@ dadosLogin = LOGIN.read().split()
 time.sleep(4)
 
 #NAVEGADOR = webdriver.Firefox()
-NAVEGADOR = webdriver.Edge()
-#NAVEGADOR = webdriver.Firefox()
+#NAVEGADOR = webdriver.Edge()
+NAVEGADOR = webdriver.Chrome()
 
 def automacao():
     ################ ABRE O LINK DO ARLEQUIM
@@ -47,17 +47,17 @@ def automacao():
 
 
     ################ SELECIONA O POP-UP
-    time.sleep(8)
+    time.sleep(5)
     pyautogui.hotkey('tab')
-    time.sleep(3)
+    time.sleep(5)
     pyautogui.hotkey('space')
-    time.sleep(2)
+    time.sleep(5)
     pyautogui.hotkey('tab', 'enter')
     
 
 
     ################ SELECIONA A MAQUINA VIRTUAL E CLICA EM ABRIR
-    time.sleep(8)
+    time.sleep(6)
     NAVEGADOR.find_element(By.XPATH, '/html/body/section[3]/div[2]/section[5]/div[5]/div/ul/li/a[3]/div').click()
     time.sleep(5)
     NAVEGADOR.find_element(By.XPATH, '/html/body/section[3]/div[2]/section[5]/div[5]/div/ul/li/div[3]/div[2]/table/tr/td[1]/div/a[1]/div/div[2]').click()

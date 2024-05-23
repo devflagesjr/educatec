@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Aplicação para automatizar o login do Arlequim.<br>Para visualizar o funcionamento acesso o link</p>
+<p align="left">Aplicação para automatizar o login do Arlequim.<br>Para visualizar o funcionamento acesso o link https://www.youtube.com/watch?v=6yIOqbjGTtk</p>
 
 ###
 
