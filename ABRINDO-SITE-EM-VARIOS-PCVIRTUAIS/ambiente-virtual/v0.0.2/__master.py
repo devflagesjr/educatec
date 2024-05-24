@@ -24,7 +24,7 @@ def main():
 
     ## CONECTA AO SERVIDOR IP e PORTA, CASO CONTRARIO MOSTRA MENSAGEM DE ERRO
     try:
-        master.connect(('192.168.0.113', 443))
+        master.connect(('127.0.0.1', 2024))
     except:
         return print('\nErro ao conectar!!!\n')
     

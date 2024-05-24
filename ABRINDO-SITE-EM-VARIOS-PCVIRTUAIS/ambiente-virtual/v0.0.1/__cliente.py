@@ -14,7 +14,7 @@ def conectServer():
         #CRIA SERVIÇO EM IPv4(AF_INET) com protoloco TCP(SOCK_STREAK)
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         #CONECTA AO IP E PORTA DO SERVIDOR
-        s.connect(('192.168.0.113', 443))
+        s.connect(('191.252.219.58', 443))
         return s
     except Exception as error:
         print('Erro ao conectar ao servidor!!!!')

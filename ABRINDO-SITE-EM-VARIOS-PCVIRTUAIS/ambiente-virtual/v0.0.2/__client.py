@@ -24,11 +24,16 @@ def main():
 
     ## CONECTA AO SERVIDOR IP e PORTA, CASO CONTRARIO MOSTRA MENSAGEM DE ERRO
     try:
-        client.connect(('192.168.0.113', 443))
+        client.connect(('127.0.0.1', 2024))
     except:
         return print('\nErro ao conectar!!!\n')
     
     print("\nConectato!!!")
+
+    threadi1 = threading.Thread(target=recebeComando, args=[client])
+    threadi1.start()
+
+
 
 
 
@@ -44,5 +49,6 @@ def recebeComando(client):
             print('\nNão foi possivel conectar!!!')
             return
 
+
+
 main()
-recebeComando()

@@ -26,4 +26,5 @@ while True:
 
     #ACCEPT aceita uma conexão, CONN objeto para enviar e receber dados, ADDRESS endereço da outra extremidade da conexão
     conn, address = servico.accept()
+    print(conn)
     
