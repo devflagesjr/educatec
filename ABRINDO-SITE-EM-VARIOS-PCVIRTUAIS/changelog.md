@@ -15,10 +15,16 @@ Fixed - para qualquer correção de bug.
 Security - em caso de vulnerabilidades.
 
 
+## [0.0.2] - 2025-05-25
+### Added
+Criado Ambiente Virtaual
+- ambiente-virtual-api
+
+
 
 ## [0.0.1] - 2025-05-17
 ### Added
 Criado Ambiente Virtaual
-- app-ambiente-virtual
+- ambiente-virtual-socket
 Adicionado arquivos:
 - changelog.md
